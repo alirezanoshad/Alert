@@ -1,2 +1,2 @@
 # Alert
- just alert 
+ this is a simple js code for Class
